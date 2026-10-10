@@ -1,0 +1,10 @@
+{
+  "persons": [
+    "Calvin",
+    "Mohan",
+    "Ronit",
+    "Vedang"
+  ],
+  "model": "insightface-buffalo_l",
+  "img_size": 112
+}
